@@ -1,1 +1,2 @@
 "This is first feature1"
+"This is feature2"
